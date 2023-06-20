@@ -1,0 +1,4 @@
+nombre del libro: regarding sayaka 
+ IDlibro: 123456 
+ valor: 20.000 
+ envio: False
